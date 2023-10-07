@@ -1,0 +1,64 @@
+{
+    "productos": [
+        {
+            "id": "P123ABC",
+            "name": "Comida para perros",
+            "price": 20.99,
+            "description": "Alimento balanceado para perros de todas las edades y razas."
+        },
+        {
+            "id": "G987XYZ",
+            "name": "Juguete para gatos",
+            "price": 9.99,
+            "description": "Un divertido juguete con plumas y campanas para mantener entretenido a tu gato."
+        },
+        {
+            "id": "A456MNO",
+            "name": "Acuario completo",
+            "price": 149.99,
+            "description": "Un acuario de 20 galones con filtro, calentador y decoraciones para peces tropicales."
+        },
+        {
+            "id": "D789LMN",
+            "name": "Collar para perros",
+            "price": 12.50,
+            "description": "Un collar ajustable y resistente para perros de todos los tamaños."
+        },
+        {
+            "id": "C654QRS",
+            "name": "Arena para gatos",
+            "price": 7.99,
+            "description": "Arena aglomerante de alta calidad para mantener la bandeja de tu gato limpia."
+        },
+        {
+            "id": "B234JKL",
+            "name": "Jaula para pájaros",
+            "price": 39.95,
+            "description": "Una jaula espaciosa y segura para aves pequeñas y medianas."
+        },
+        {
+            "id": "F890STU",
+            "name": "Correa retráctil para perros",
+            "price": 18.99,
+            "description": "Una correa extensible para paseos cómodos con tu perro."
+        },
+        {
+            "id": "K456VWX",
+            "name": "Camita para gatos",
+            "price": 15.75,
+            "description": "Una cama suave y acogedora para que tu gato descanse cómodamente."
+        },
+        {
+            "id": "R123YZA",
+            "name": "Collar antipulgas y garrapatas",
+            "price": 14.25,
+            "description": "Un collar efectivo para proteger a tu mascota de pulgas y garrapatas."
+        },
+        {
+            "id": "M678NOP",
+            "name": "Comedero automático para perros",
+            "price": 29.99,
+            "description": "Un comedero programable para mantener a tu perro bien alimentado cuando no estás en casa."
+        }
+    ]
+}
